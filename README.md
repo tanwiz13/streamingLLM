@@ -19,9 +19,7 @@ A real-time streaming chat application built with React and Node.js that support
 
 ## Frontend
 
-* React
-* Vite
-* Tailwind CSS
+* React Native
 
 ## Backend
 
